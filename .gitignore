@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+.env.local
+node_modules/
+.next/
+out/
+.vite/
+.pytest_cache/
+coverage/
+*.db
+*.sqlite3
+.vscode/
+.idea/
